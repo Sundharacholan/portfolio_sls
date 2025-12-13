@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.39014777.css",
-    "main.js": "/static/js/main.2072089a.js",
+    "main.js": "/static/js/main.d49b9bd9.js",
     "static/media/myPic.png": "/static/media/myPic.d6bd3b65f3db5e844848.png",
     "static/media/udemy.png": "/static/media/udemy.e66bbd27f718a7c5dc34.png",
     "static/media/logo.png": "/static/media/logo.f8e5b715798d8feea61e.png",
@@ -14,10 +14,10 @@
     "static/media/email.png": "/static/media/email.babc890bf0779ce1cba2.png",
     "index.html": "/index.html",
     "main.39014777.css.map": "/static/css/main.39014777.css.map",
-    "main.2072089a.js.map": "/static/js/main.2072089a.js.map"
+    "main.d49b9bd9.js.map": "/static/js/main.d49b9bd9.js.map"
   },
   "entrypoints": [
     "static/css/main.39014777.css",
-    "static/js/main.2072089a.js"
+    "static/js/main.d49b9bd9.js"
   ]
 }
