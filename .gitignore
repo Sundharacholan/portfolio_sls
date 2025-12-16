@@ -1,6 +1,3 @@
-# also find more templates from
-#https://github.com/github/gitignore/blob/main/Node.gitignore
-
 # Logs
 logs
 *.log
@@ -10,7 +7,11 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-# Ignore node_modules directory
+# Ignore environment variables file
+security.env
+backend/security.env
+
+# Ignore node_modules directory (Only needs to be listed once)
 node_modules/
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -45,7 +46,6 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
